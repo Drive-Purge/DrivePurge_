@@ -1,0 +1,118 @@
+{
+  "tag": "v1.0",
+  "name": "DrivePurge v1.0",
+  "published_at": "2026-05-24T06:24:35Z",
+  "html_url": "https://github.com/Drive-Purge/DrivePurge_/releases/tag/v1.0",
+  "total_assets": 5,
+  "all": [
+    {
+      "name": "checksums.txt",
+      "os": "all",
+      "arch": "all",
+      "download_url": "https://github.com/Drive-Purge/DrivePurge_/releases/download/v1.0/checksums.txt",
+      "size_bytes": 325,
+      "content_type": "text/plain",
+      "created_at": "2026-05-24T06:20:45Z"
+    },
+    {
+      "name": "DrivePurge-linux-amd64-v1.0.zip",
+      "os": "linux",
+      "arch": "x86_64",
+      "download_url": "https://github.com/Drive-Purge/DrivePurge_/releases/download/v1.0/DrivePurge-linux-amd64-v1.0.zip",
+      "size_bytes": 213578793,
+      "content_type": "application/zip",
+      "created_at": "2026-05-24T06:20:47Z"
+    },
+    {
+      "name": "DrivePurge-macOS-arm-v1.0.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "download_url": "https://github.com/Drive-Purge/DrivePurge_/releases/download/v1.0/DrivePurge-macOS-arm-v1.0.zip",
+      "size_bytes": 40681828,
+      "content_type": "application/zip",
+      "created_at": "2026-05-24T06:14:47Z"
+    },
+    {
+      "name": "DrivePurge-v1.0.exe",
+      "os": "windows",
+      "arch": "x86_64",
+      "download_url": "https://github.com/Drive-Purge/DrivePurge_/releases/download/v1.0/DrivePurge-v1.0.exe",
+      "size_bytes": 42307758,
+      "content_type": "application/x-msdownload",
+      "created_at": "2026-05-24T06:13:40Z"
+    },
+    {
+      "name": "DrivePurge-windows-amd64-v1.0.zip",
+      "os": "windows",
+      "arch": "x86_64",
+      "download_url": "https://github.com/Drive-Purge/DrivePurge_/releases/download/v1.0/DrivePurge-windows-amd64-v1.0.zip",
+      "size_bytes": 41904399,
+      "content_type": "application/zip",
+      "created_at": "2026-05-24T06:23:23Z"
+    }
+  ],
+  "by_os": {
+    "all": {
+      "all": [
+        {
+          "name": "checksums.txt",
+          "os": "all",
+          "arch": "all",
+          "download_url": "https://github.com/Drive-Purge/DrivePurge_/releases/download/v1.0/checksums.txt",
+          "size_bytes": 325,
+          "content_type": "text/plain",
+          "created_at": "2026-05-24T06:20:45Z"
+        }
+      ]
+    },
+    "linux": {
+      "x86_64": [
+        {
+          "name": "DrivePurge-linux-amd64-v1.0.zip",
+          "os": "linux",
+          "arch": "x86_64",
+          "download_url": "https://github.com/Drive-Purge/DrivePurge_/releases/download/v1.0/DrivePurge-linux-amd64-v1.0.zip",
+          "size_bytes": 213578793,
+          "content_type": "application/zip",
+          "created_at": "2026-05-24T06:20:47Z"
+        }
+      ]
+    },
+    "macos": {
+      "arm64": [
+        {
+          "name": "DrivePurge-macOS-arm-v1.0.zip",
+          "os": "macos",
+          "arch": "arm64",
+          "download_url": "https://github.com/Drive-Purge/DrivePurge_/releases/download/v1.0/DrivePurge-macOS-arm-v1.0.zip",
+          "size_bytes": 40681828,
+          "content_type": "application/zip",
+          "created_at": "2026-05-24T06:14:47Z"
+        }
+      ]
+    },
+    "windows": {
+      "x86_64": [
+        {
+          "name": "DrivePurge-v1.0.exe",
+          "os": "windows",
+          "arch": "x86_64",
+          "download_url": "https://github.com/Drive-Purge/DrivePurge_/releases/download/v1.0/DrivePurge-v1.0.exe",
+          "size_bytes": 42307758,
+          "content_type": "application/x-msdownload",
+          "created_at": "2026-05-24T06:13:40Z"
+        },
+        {
+          "name": "DrivePurge-windows-amd64-v1.0.zip",
+          "os": "windows",
+          "arch": "x86_64",
+          "download_url": "https://github.com/Drive-Purge/DrivePurge_/releases/download/v1.0/DrivePurge-windows-amd64-v1.0.zip",
+          "size_bytes": 41904399,
+          "content_type": "application/zip",
+          "created_at": "2026-05-24T06:23:23Z"
+        }
+      ]
+    }
+  },
+  "generated_at": "2026-05-24T08:56:17.395214+00:00"
+}
